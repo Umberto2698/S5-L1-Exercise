@@ -238,6 +238,7 @@ footer a {
     border-radius: 20px;
     height: 200px;
     width: 49.5%;
+    vertical-align: middle;
   }
   section > p {
     line-height: normal;
@@ -247,6 +248,7 @@ footer a {
     height: 200px;
     margin: 0;
     width: 49.5%;
+    vertical-align: middle;
   }
   aside {
     text-align: center;
